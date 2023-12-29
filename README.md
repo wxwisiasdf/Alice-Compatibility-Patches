@@ -12,8 +12,9 @@ Nomenclature is as follows:
 
 # Custom mods
 
-O_NTSC - Based off CWE, it's a mod that allows you to play as the NTSC, PAL or SECAM video standards!
-O_CountryRoulette - A country roulette mod for vanilla!
-O_Apocalypse1836_Compatch - A version of Apocalypse 1836, modified slightly
-O_ZombieApocalypse - A version SPECIFICALLY tailored for Alice, very VERY aggressive zombies and decolonization mechanics (very fun!)
-O_LPA - Low Performance Addon: Turns graphical settings to toaster levels so you can run this faster! (hopefully!)
+* O_NTSC - Based off CWE, it's a mod that allows you to play as the NTSC, PAL or SECAM video standards!
+* O_CountryRoulette - A country roulette mod for vanilla!
+* O_Apocalypse1836_Compatch - A version of Apocalypse 1836, modified slightly
+* O_ZombieApocalypse - A version SPECIFICALLY tailored for Alice, very VERY aggressive zombies and decolonization mechanics (very fun!)
+* O_LPA - Low Performance Addon: Turns graphical settings to toaster levels so you can run this faster! (hopefully!)
+* O_BlackMapFont - Turns the map font black
