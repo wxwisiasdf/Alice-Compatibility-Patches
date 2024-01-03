@@ -9,6 +9,3 @@ Nomenclature is as follows:
 * A_xxxx - Actively developed mods compatch, may be out of date (and they ALWAYS are latest github commit, so use the latest github commit from them NOT RELEASE OR MODDB RELEASE)
 * S_xxxx - Actively developed mods compatch, however the mods are stable enough that not a lot of revisions are needed
 * D_xxxx - Discontinued/Inactive mod compatch, never out of date
-
-
-THIS IS ME MAKING NONSENSE EDITS AS A DEMO. DONT MERGE THIS
